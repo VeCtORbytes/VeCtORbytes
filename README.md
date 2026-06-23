@@ -1,49 +1,130 @@
+# Hi 👋, I'm Sarthak Gupta
 
-<h1 align="center">Hi 👋, I'm Sarthak Gupta</h1>
-
-<h3 align="center">
-Full Stack Developer | MERN Stack | AWS & DevOps Enthusiast
-</h3>
+### Full Stack Developer • AI Enthusiast • Building Scalable Web Applications
 
 <p align="center">
-I build scalable web applications, explore cloud technologies,
-and enjoy solving real-world problems through software.
+  <a href="https://vectorbytes.dev">
+    <img src="https://img.shields.io/badge/Portfolio-vectorbytes.dev-blue?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/sarthakgupta25/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=VeCtORbytes&theme=onedark&row=1&column=7&margin-w=15" />
-</p>
+---
 
+## 🚀 About Me
 
-- 🔭 I'm currently working on **Portfolio**
+- 🎓 B.Tech Computer Science @ Amity University Jaipur
+- 💻 Full Stack Developer focused on React, Next.js, Node.js & PostgreSQL
+- 🤖 Exploring AI Engineering, RAG Systems & LLM Applications
+- ☁️ Learning AWS, Docker, Redis & DevOps
+- 📚 Published technical articles on AI & Operations Automation
+- 🌐 Portfolio: **https://vectorbytes.dev**
+- 🎯 Open to Software Engineering Opportunities
 
-- 🌱 I'm currently learning **AWS, Docker, Kubernetes, System Design, DevOps, Redis, CI/CD**
+---
 
-- 👯 I'm looking to collaborate on **Open Source Full Stack / DevOps Projects**
+## 🛠 Tech Stack
 
-- 🤝 I'm looking for help with **Scaling distributed systems & cloud-native architectures**
+### Frontend
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind)
 
-- 💬 Ask me about **MERN Stack, React, Node.js, Express.js, MongoDB, REST APIs, Authentication, Full Stack Development
+### Backend
+![Backend](https://skillicons.dev/icons?i=nodejs,express,fastapi,python)
 
-**
+### Databases
+![Database](https://skillicons.dev/icons?i=mongodb,postgres,supabase,redis)
 
-- 📫 How to reach me **sarthakgupta2503@gmail.com**
+### Cloud & DevOps
+![DevOps](https://skillicons.dev/icons?i=aws,docker,nginx,githubactions)
 
-- ⚡ Fun fact **I debug faster after coffee ☕**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/VeCtORbytes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="VeCtORbytes" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sarthakgupta25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthakgupta25" height="30" width="40" /></a>
-</p>
+## 📌 Featured Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/chartjs" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="chartjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/heroku" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=heroku" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/materialize" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sass" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/selenium" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=selenium" alt="selenium" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a></p>
+### 🤖 HireLens (AI Resume Screener)
 
+AI-powered recruitment platform that analyzes resumes against job requirements and generates hiring insights.
 
+**Tech:** Next.js • FastAPI • PostgreSQL • Groq • Supabase
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VeCtORbytes&theme=tokyonight" />
-</p>
+- Frontend: https://resume-screener-cyan-xi.vercel.app
+- GitHub: https://github.com/VeCtORbytes/resume-screener
 
+---
 
+### 💻 LeetCrack
+
+Coding platform with multi-language execution, Monaco Editor, authentication, discussions, and voting.
+
+**Tech:** Next.js • Supabase • PostgreSQL
+
+- Live: https://leet-crack.vercel.app/
+- GitHub: https://github.com/VeCtORbytes/LeetCrack
+
+---
+
+### 📈 StockFlow
+
+Stock market simulation platform with portfolio tracking and analytics.
+
+**Tech:** MERN Stack
+
+- Live: https://stocker-1-frontend.onrender.com
+- GitHub: https://github.com/VeCtORbytes/Stocker
+
+---
+
+### 🏡 Wanderlust
+
+Full-stack property listing and booking platform.
+
+**Tech:** MongoDB • Express • Node.js
+
+- Live: https://delta-project-2-hb3x.onrender.com
+- GitHub: https://github.com/VeCtORbytes/Delta-project
+
+---
+
+### 🧠 CodeReviewer
+
+AI-powered code review assistant.
+
+**Tech:** React • Node.js • Groq
+
+- Live: https://codereviewer-1-fyjr.onrender.com
+- GitHub: https://github.com/VeCtORbytes/CodeReviewer
+
+---
+
+## ✍️ Publications
+
+- AI Is Moving Beyond Chatbots
+- 5 Workflows Your Operations Team Can Automate This Month
+
+Published at Tectome.
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=VeCtORbytes&show_icons=true&theme=tokyonight)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=VeCtORbytes&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VeCtORbytes&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+- Portfolio: https://vectorbytes.dev
+- LinkedIn: https://www.linkedin.com/in/sarthakgupta25/
+- GitHub: https://github.com/VeCtORbytes
+- LeetCode: https://leetcode.com/u/sarthak_gupta25/
+- Email: sarthakgupta2503@gmail.com
+
+---
+
+⭐ Building products, learning continuously, and sharing the journey.
